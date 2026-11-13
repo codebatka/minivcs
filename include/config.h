@@ -1,8 +1,10 @@
 #ifndef MINIVCS_CONFIG_H
 #define MINIVCS_CONFIG_H
 
+
 // Version
-#define TN_VERSION "0.1.0"
+#define VCS_VERSION "0.1.0"
+
 
 // Limits
 #define HASH_HEX_LEN  16                  // hex characters in a hash
